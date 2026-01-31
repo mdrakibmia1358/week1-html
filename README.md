@@ -1,2 +1,15 @@
-# week1-html
-Week 1 HTML fundamentals practice for building a strong web development foundation.
+# Week 1 – HTML Basics
+
+This repository contains my Week 1 practice work for web development.
+
+## Topics Covered
+- HTML structure
+- Common tags
+- Forms and inputs
+- Semantic HTML
+
+## Live Preview
+Coming soon
+
+## Author
+Md. Rakib Mia
